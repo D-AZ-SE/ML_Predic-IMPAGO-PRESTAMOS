@@ -1,4 +1,4 @@
-🏦 DETECCION PRESTAMOS FALLIDOS
+🏦 DETECCION IMPAGO PRESTAMOS
 
 📑 Introducción
 En este proyecto, desarrollaremos una comprensión básica de la analítica de riesgos en banca y servicios financieros y entenderemos cómo se utiliza la información para minimizar el riesgo de pérdida de dinero en la concesión de prestamos a clientes. Mediante el Análisis Exploratorio de Datos (EDA) y el Aprendizaje Automático, crearemos unos modelos que determinen el riesgo de impago que poseen dichos clientes y se realizará una comparación entre lo mismos, para evaluar el modelo de mejores resultados.
